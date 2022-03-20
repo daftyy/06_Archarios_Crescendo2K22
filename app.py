@@ -10,9 +10,9 @@ app=Flask(__name__)
 # transportMode=car
 # &origin=52.5308,13.3847
 # &destination=52.5323,13.3789
-# &return=summary&apiKey=ihGga0Q7bhvnW8UAliqEYnlB-fy3rKjDTEKvNSIkfq0&alternatives=5
+# &return=summary&apiKey=XXX-APIKEY-XXX&alternatives=5
 HERE_URL = 'https://router.hereapi.com/v8/routes?'
-HERE_KEY = 'ihGga0Q7bhvnW8UAliqEYnlB-fy3rKjDTEKvNSIkfq0'
+HERE_KEY = 'XXX-APIKEY-XXX'
 alternative_routes = '5'
 
 
