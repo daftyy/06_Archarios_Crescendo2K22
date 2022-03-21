@@ -1,5 +1,5 @@
-# 06_Archarios_Crescendo2K22
-*Repo for the Crescendo 2022 hackathon*
+# **ROUTE FINDR**
+*Problem from the Crescendo 2022 hackathon*
 
 ## **Objectives**   
 * To create a tool which can generate and communicate optimal routing plans to help reduce costs and environmental impact.   
